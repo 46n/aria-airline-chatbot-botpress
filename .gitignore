@@ -1,0 +1,10 @@
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+*.key
+*.token
+*.zip
