@@ -1,0 +1,17 @@
+{
+  "project": "ARIA Airline Customer Support Chatbot",
+  "platform": "Botpress",
+  "type": "conversational-ai",
+  "main_capabilities": [
+    "flight_status_lookup",
+    "booking_management",
+    "baggage_support",
+    "travel_policy_answers",
+    "human_agent_escalation"
+  ],
+  "data_sources": [
+    "knowledge-base/*.txt",
+    "data/*.csv",
+    "botpress-export/aria-airline-chatbot.bpz"
+  ]
+}

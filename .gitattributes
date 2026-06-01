@@ -1,0 +1,5 @@
+*.json linguist-language=JSON linguist-detectable=true
+*.bpz linguist-generated=true
+knowledge-base/**/*.txt linguist-documentation=true
+screenshots/** linguist-documentation=true
+diagrams/** linguist-documentation=true
