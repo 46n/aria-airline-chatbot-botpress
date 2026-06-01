@@ -193,9 +193,9 @@ Full documentation: [`documentation/aria-chatbot-documentation.pdf`](documentati
 
 ---
 
-## My Contribution
+## Team Contribution
 
-This is a cleaned portfolio version of an academic group project. My contribution covered:
+This is a cleaned portfolio version of an academic group project. The team contribution covered:
 
 - chatbot design and conversation flow architecture
 - semantic network modelling and knowledge base organisation
@@ -204,7 +204,7 @@ This is a cleaned portfolio version of an academic group project. My contributio
 
 ---
 
-## What I Learned
+## What We Learned
 
 - How to structure domain knowledge for AI retrieval — separating policies, entity definitions, Q&A patterns, and semantic relationships into distinct KB documents rather than one monolithic file keeps retrieval focused and reduces hallucination
 - How AI-assisted routing in Botpress differs from hard-coded intent matching — and where each is more reliable
